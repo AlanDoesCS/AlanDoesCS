@@ -21,5 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanDoesCS&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![AlanDoesCS's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanDoesCS&theme=radical)](https://github.com/AlanDoesCS)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDoesCS&theme=radical)](https://github.com/AlanDoesCS)
 
