@@ -7,6 +7,7 @@
  
 - 🌱 I’m currently learning ...
   - Go
+  - Rust
   - Reinforcement learning with DQNs/DDQNs
 <!--
 
