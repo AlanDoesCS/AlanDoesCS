@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on ...
   - A 32 bit OS written in mostly C (and a little bit of NASM)
   - A simple Java library for RL
+  - A 2D render engine
  
 - 🌱 I’m currently learning ...
   - Go
