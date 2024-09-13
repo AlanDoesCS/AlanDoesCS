@@ -2,14 +2,14 @@
 
 
 - 🔭 I’m currently working on ...
-  - A 32 bit OS written in mostly C (and a little bit of NASM)
-  - A simple Java library for RL
-  - A 2D render engine
+  - A [32 bit OS](https://github.com/AlanDoesCS/WaffleOS) written in mostly C (and a little bit of NASM)
+  - A simple [Java library](https://github.com/AlanDoesCS/Easy-Java-RL-Library) for RL
+  - A [2D render engine](https://github.com/AlanDoesCS/Magnesium)
  
 - 🌱 I’m currently learning ...
   - Go
   - Rust
-  - Reinforcement learning with DQNs/DDQNs
+  - Reinforcement learning
 <!--
 
 Here are some ideas to get you started:
