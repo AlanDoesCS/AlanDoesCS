@@ -5,6 +5,7 @@
   - A [32 bit OS](https://github.com/AlanDoesCS/WaffleOS) written in mostly C (and a little bit of NASM)
   - A simple [Java library](https://github.com/AlanDoesCS/Easy-Java-RL-Library) for RL
   - A [2D render engine](https://github.com/AlanDoesCS/Magnesium)
+  - A [Fractal renderer](https://github.com/AlanDoesCS/Fractals)
  
 - 🌱 I’m currently learning ...
   - Go
