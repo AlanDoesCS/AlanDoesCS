@@ -3,12 +3,6 @@ I'm a student in my final year of high school with an interest in Computer Scien
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-smith-45a38b314/)
 
-# Current Projects
-  - A [32 bit OS](https://github.com/AlanDoesCS/WaffleOS) written in mostly C (and a little bit of NASM)
-  - A simple [Java library](https://github.com/AlanDoesCS/Easy-Java-RL-Library) for RL
-  - A [2D render engine](https://github.com/AlanDoesCS/Magnesium)
-  - A [Fractal renderer](https://github.com/AlanDoesCS/Fractals)
-
 # Languages
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![ASSEMBLY](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge)
