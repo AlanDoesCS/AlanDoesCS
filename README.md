@@ -15,3 +15,4 @@ I'm a student in my final year of high school with an interest in Computer Scien
 
 [![AlanDoesCS's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanDoesCS&theme=radical)](https://github.com/AlanDoesCS) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDoesCS&theme=radical)](https://github.com/AlanDoesCS)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlanDoesCS)](https://github.com/AlanDoesCS)
