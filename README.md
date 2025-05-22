@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a student in my final year of high school with an interest in Computer Science and Machine Learning.
+I'm a student about to enter first year Computer Science at Lancaster University.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-smith-45a38b314/)
 
