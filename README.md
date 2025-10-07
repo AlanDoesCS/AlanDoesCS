@@ -1,15 +1,11 @@
-## Hi there 👋
-I'm a student about to begin my first year of Computer Science at **Lancaster University**.  
+## About
+I'm a student in my first year Computer Science at **Lancaster University**, with Mathematics as a minor subject.  
 
-Check out my [CS Notes site](https://alandoescs.github.io/Lancaster-CS-Notes/) for Lancaster G400!
+Visit my [GitHub pages site](https://alandoescs.github.io/) in order to see some of my favourite projects that I have worked on.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-smith-45a38b314/)
 
-[![GitHub Pages](https://img.shields.io/badge/visit-website-blue?style=for-the-badge)](https://alandoescs.github.io/)
-
-
 ---
-
 
 # Languages
 
@@ -25,7 +21,6 @@ Check out my [CS Notes site](https://alandoescs.github.io/Lancaster-CS-Notes/) f
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 # Favourite Books
 
