@@ -1,5 +1,5 @@
 ## About
-I'm a student in my first year Computer Science at **Lancaster University**, with Mathematics as a minor subject.  
+I'm a first-year Computer Science student at **Lancaster University**, with a minor in Mathematics and an interest in quantitative finance.  
 
 Visit my [GitHub pages site](https://alandoescs.github.io/) in order to see some of my favourite projects that I have worked on.
 
