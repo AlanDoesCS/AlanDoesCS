@@ -3,7 +3,7 @@ I'm a first-year Computer Science student at **Lancaster University**, with a mi
 
 Visit my [GitHub pages site](https://alandoescs.github.io/) in order to see some of my favourite projects that I have worked on.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-smith-45a38b314/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-david-smith/)
 
 ---
 
