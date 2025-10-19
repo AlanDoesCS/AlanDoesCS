@@ -1,8 +1,6 @@
 ## About
 I'm a first-year Computer Science student at **Lancaster University**, with a minor in Mathematics and an interest in quantitative finance.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-david-smith/)
-
 ---
 
 # Languages
